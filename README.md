@@ -1,9 +1,9 @@
-#Seven Nation Army for the TI LaunchPad
+# Seven Nation Army for the TI LaunchPad
 
-##Setup
+## Setup
 Set up three TI MSP430G2 LaunchPads with the configuration found in each file. Upload the file using Energia.
 
-##Contributors
+## Contributors
 Sai Pathuri
 
 Akshay Ramesh
